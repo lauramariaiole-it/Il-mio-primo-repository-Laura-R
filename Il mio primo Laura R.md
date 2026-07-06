@@ -2,14 +2,14 @@
 ---
 *55 anni, sposata, precisa nel lavoro, creativa, curiosa e con capacità di analisi e problem solving*  
 ---
-##**Esperienze**  
+## **Esperienze**  
 
 -proposte tecniche  
 -data analyst  
 -documenti tecnici  
 -reportistica  
 ---
-##**Competenze**  
+## **Competenze**  
 
 -excel con visual basic  
 -zucchetti analytics  
