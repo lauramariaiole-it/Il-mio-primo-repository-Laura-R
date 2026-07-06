@@ -1,4 +1,5 @@
-#**Laura R**  
+#**Laura R**
+---
 *55 anni, sposata, precisa nel lavoro, creativa, curiosa e con capacità di analisi e problem solving*  
 ---
 ##**Esperienze**  
