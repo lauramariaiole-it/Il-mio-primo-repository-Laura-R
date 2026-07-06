@@ -15,7 +15,7 @@
 -zucchetti analytics  
 -power bi  
 ---
-##Obiettivi  
+## **Obiettivi** 
 1.AI Agent coding  
 2.Sql  
 ---
