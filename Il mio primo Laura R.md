@@ -19,4 +19,4 @@
 1.AI Agent coding  
 2.Sql  
 ---
-*Note interessi nella grafica e nell'ambito delle scoperte innovative.*  
+*Interessi nella grafica e nell'ambito delle scoperte innovative.*  
